@@ -1,0 +1,4 @@
+../Core/Module_1/Module_1_interface.c:18:6:module_1_interface_init	8	static
+../Core/Module_1/Module_1_interface.c:23:6:module_1_set	16	static
+../Core/Module_1/Module_1_interface.c:48:6:module_1_get	16	static
+../Core/Module_1/Module_1_interface.c:72:6:module_1_request	24	static

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "module_1.h": "c",
+        "module_1_interface.h": "c",
+        "nervios_system.h": "c",
+        "type_traits": "cpp",
+        "*.elf": "c",
+        "nervious_system_data_types_def.h": "c",
+        "module_2_interface.h": "c",
+        "module_2.h": "c"
+    }
+}

@@ -1,0 +1,15 @@
+../Core/Module_1/Module_1.c:10:6:m1_get_var_1	16	static
+../Core/Module_1/Module_1.c:14:6:m1_get_var_2	16	static
+../Core/Module_1/Module_1.c:18:6:m1_get_var_3	16	static
+../Core/Module_1/Module_1.c:22:6:m1_get_var_4	16	static
+../Core/Module_1/Module_1.c:26:6:m1_get_var_5	16	static
+../Core/Module_1/Module_1.c:32:6:m1_set_var_1	16	static
+../Core/Module_1/Module_1.c:36:6:m1_set_var_2	16	static
+../Core/Module_1/Module_1.c:40:6:m1_set_var_3	16	static
+../Core/Module_1/Module_1.c:44:6:m1_set_var_4	16	static
+../Core/Module_1/Module_1.c:48:6:m1_set_var_5	16	static
+../Core/Module_1/Module_1.c:55:6:m1_process_var_1	24	static
+../Core/Module_1/Module_1.c:61:6:m1_process_var_2	24	static
+../Core/Module_1/Module_1.c:68:6:m1_process_var_3	16	static
+../Core/Module_1/Module_1.c:73:6:m1_process_var_4	16	static
+../Core/Module_1/Module_1.c:77:6:m1_process_var_5	16	static

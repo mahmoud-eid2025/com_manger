@@ -1,0 +1,4 @@
+../Core/Nervios_System/Nervious_System.c:6:6:component_manager_set	32	static
+../Core/Nervios_System/Nervious_System.c:22:6:component_manager_get	32	static
+../Core/Nervios_System/Nervious_System.c:38:6:component_manager_request	32	static
+../Core/Nervios_System/Nervious_System.c:54:6:component_manager_attach_node	24	static

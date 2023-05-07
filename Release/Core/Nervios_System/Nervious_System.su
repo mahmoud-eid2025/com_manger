@@ -1,0 +1,4 @@
+../Core/Nervios_System/Nervious_System.c:7:6:nervious_system_set	0	static
+../Core/Nervios_System/Nervious_System.c:19:6:nervious_system_get	0	static
+../Core/Nervios_System/Nervious_System.c:31:6:nervious_system_request	0	static
+../Core/Nervios_System/Nervious_System.c:45:6:Nervious_system_attach_node	0	static
